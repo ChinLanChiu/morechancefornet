@@ -1,0 +1,77 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- Preloader -->
+    <div id="preloader">
+        <div class="loader"></div>
+    </div>
+    <!-- /Preloader -->
+
+    <!-- 表頭區 -->
+	
+	<header1 class="header_top_01_outbox">  
+	  <header class="header_top_01_box">
+	  <div class="header_language_box"><img class="header1_icon_all" src="../img/header_language.png" alt=""/><h3 class="header_language_text">繁體中文</h3></div>
+		<div class="header_right_box">
+			  <a class="header_right_inbox" href="#"> <img class="header_right_icon" src="../img/header_menbers.png" alt=""/><h3 class="header_right_text">會員專區</h3></a>
+			  <a class="header_right_inbox" href="#"> <img class="header_right_icon" src="../img/header_searce.png" alt="" /><h3 class="header_right_text">找商品</h3></a>
+			  <a class="header_right_inbox" href="#"> <img class="header_right_icon" src="../img/header_shopcars.png" alt=""/><h3 class="header_right_text">購物車</h3></a>
+		  </div>
+		
+	     </header>
+	  </header1>
+	
+
+    <header class="header-area">
+        <!-- Search Form -->
+		
+		
+        <!-- Main Header Start -->
+        <div class="main-header-area">
+            <div class="classy-nav-container breakpoint-off">
+                <div class="container">
+                    <!-- Classy Menu -->
+                    <nav class="classy-navbar justify-content-between" id="robertoNav">
+
+                        <!-- Logo -->
+                        <a class="nav-brand" href="../home_for_0106.html"><img class="header_logo_top_logoandlogotype" src="../img/logo.png" alt=""></a>
+
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+                            <!-- Menu Close Button -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul id="nav"> 
+									<li><a href="../productlist_for_0106.html">所有商品</a>
+											    <ul class="dropdown">
+													<li><a href="../product1_ht_for_0106.html">銀耳魚腥草茶</a></li>
+													<li><a href="../tremella_Dendrobium.html"> 銀耳石斛茶</a></li>
+													<li><a href="../tremella_Hibiscus.html"> 銀耳洛神花茶</a></li>
+													<li><a href="../tremella_coffee.html"> 銀耳咖啡</a></li>
+											    </ul>
+										</li>
+								
+                                            <li><a href="../about_us.html">關於默釧</a></li>
+                                            <li><a href="../blog.html"> 最新活動</a></li>
+                                            <li><a href="../brandskill_for_0106.html"> 專書專利</a>
+									            <ul class="dropdown">
+													<li><a href="../brandbook_for_0106.html"> 出版</a></li>
+													<li><a href="../brandskill_for_0106.html"> 專利技術</a></li>
+											    </ul>
+									   </li>
+                                                </ul>
+								
+
+                            <!-- Nav End -->
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- 表頭區 End -->

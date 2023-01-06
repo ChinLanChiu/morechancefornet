@@ -1,0 +1,63 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<!-- 頁腳開始 -->
+   		
+	<footer>
+		<line class="footer_line_top"><img class="footer_line_top" src="../img/footer_ine_top.jpg" alt=""/></line>
+		</footer>	
+    <footer class="footer">
+      <footer class="footer_aboutus_left">
+	    <h5 class="footer_aboutus_left_h1 text-center"> 關於默釧</h5>
+		  <footer class="footer_aboutus_left_text"> 
+		    <h6 class="text-center">品牌故事&nbsp;</h6>
+		    <h6 class="text-center">加入會員&nbsp;</h6>
+		    <h6 class="text-center">會員說明&nbsp;</h6>
+		    <h6 class="text-center">常見問題</h6>
+          </footer>
+		  
+      </footer>
+		
+	  <footer class="footer_contect">
+		  <h5 class="footer_contect_left_h1"> 聯絡方式</h5>
+		  <footer class="footer_contect_left_text"> 
+		    <footer class="footer_contect_textbox">
+			    
+				  <footer class="footer_contect_box">
+				    <h6><fticon class="footer_contect_icon"><img src="../img/footer_phone.jpg" alt=""/></fticon>:0987375051</h6>
+					  
+			        <h6><fticon class="footer_contect_icon"><img src="../img/footer_mail.jpg" alt=""/></fticon>:leemm@asia.edu.tw</h6>
+					  
+		            <h6><fticon class="footer_contect_icon"><img src="../img/footer_loc.jpg" alt=""/></fticon>:413台中市霧峰區柳豐路500號</h6>
+					  
+		            <h6><fticon class="footer_contect_icon"><img src="../img/footer_time.jpg" alt=""/></fticon>:週一～週五 9:00~20:00</h6>
+					  
+		            <h6>協作單位：亞洲大學-醫學暨健康學院食品營養與保健生技學系</h6>
+				</footer>
+				
+				    
+			 
+					
+		    </footer>
+			  
+			
+
+		
+		</footer>
+	  </footer>
+		
+	  <footer class="footer_copyright">
+		  <footer class="footer_copyright_box">
+			  
+		  <h6>默釧 more chance 2022</h6>
+		  <img src="../img/footer_copyright_icon_fb.jpg" alt=""/>
+		  <img src="../img/footer_copyright_icon_line.jpg" alt=""/>
+		  
+		  </footer>
+		
+	  </footer>
+		  
+		
+		
+</footer>
+  
+	<!-- 頁腳 end -->
