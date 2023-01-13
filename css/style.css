@@ -580,7 +580,7 @@ padding: 10px 20px;}
         margin-left: 0; } 
 }
     .classy-nav-container .classy-navbar .classynav ul li a {
-      font-size: 20px;
+      font-size: 18px;
       text-transform: capitalize;
       color: #2a303b;
       font-weight: 500;
@@ -605,7 +605,7 @@ padding: 10px 20px;}
         color: #afb4bf;
         font-weight: 500; }
     .classy-nav-container .classy-navbar .classynav ul li.cn-dropdown-item ul li a, .classy-nav-container .classy-navbar .classynav ul li.megamenu-item ul li a {
-      font-size: 20px;
+      font-size: 18px;
       text-transform: capitalize;
       height: 42px;
       line-height: 42px;
@@ -866,7 +866,7 @@ padding: 10px;}
 }
 
 .header_language_text{ 
-font-size: 16pt;
+font-size: 16px;
 	margin: auto;
 	margin-left: 10px;
 }
@@ -898,7 +898,7 @@ font-size: 16pt;
 	
 }
 
-.header_right_text{margin: auto;font-size: 16pt;
+.header_right_text{margin: auto;font-size: 16px;
 }
 
 .header_right_icon{margin-left: 30px; margin-right: 10px
@@ -958,4 +958,3 @@ font-size: 16pt;
 
 
 	
-}
